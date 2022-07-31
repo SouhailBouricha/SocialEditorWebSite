@@ -1,6 +1,6 @@
 # SocialEditorWebSite
 
-![Design preview for the Social Editor](./icons/preview.PNG)
+![Design preview for the Social Editor](./preview.PNG)
 
 ## Welcome! 👋
 
